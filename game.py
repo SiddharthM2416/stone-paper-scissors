@@ -6,7 +6,7 @@ BEATS = {"stone": "scissors", "paper": "stone", "scissors": "paper"}
 
 
 def welcome():
-    return "Welcome to Stone Paper Scissors"
+    return "Hello and Welcome to Stone Paper Scissors"
 
 
 def get_computer_choice():
